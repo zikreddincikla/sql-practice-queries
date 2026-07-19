@@ -63,3 +63,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
+  
+© 2026 Zikreddin — Tüm hakları saklıdır.
+
+</div>
