@@ -2,7 +2,7 @@
 
 🇬🇧 English | [🇹🇷 Türkçe](README.tr.md)
 
-10 SQL practice questions and solutions built around a small e-commerce
+10 MS SQL practice questions and solutions built around a small e-commerce
 database (Customers, Orders, OrderDetails, Products, Categories).
 
 ## Schema
