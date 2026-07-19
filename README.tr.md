@@ -1,4 +1,5 @@
 # SQL Practice
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 [🇬🇧 English](README.md) | 🇹🇷 Türkçe
 
@@ -50,3 +51,21 @@ Bu sorgular T-SQL (SQL Server) sözdizimine göre yazılmıştır (`[]` köşeli
 parantez kullanımı ve `TOP` ifadesi bunun göstergesidir). Farklı bir veritabanı
 motoru (PostgreSQL, MySQL vb.) kullanacaksanız küçük sözdizimi farkları
 olabilir (örneğin `TOP 1` yerine `LIMIT 1`).
+## Yazar
+
+**Zikreddin** tarafından geliştirilmiş ve sürdürülmektedir.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zikreddincikla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zikreddin-%C3%A7%C4%B1klasa%C4%9F%C4%B1rc%C4%B1o%C4%9Flu-64667a395/)
+
+## Lisans
+
+MIT Lisansı altında dağıtılmaktadır. Detaylar için `LICENSE` dosyasına bakın.
+
+---
+
+<div align="center">
+
+© 2026 Zikreddin — Tüm hakları saklıdır.
+
+</div>
