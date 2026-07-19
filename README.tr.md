@@ -3,7 +3,7 @@
 [🇬🇧 English](README.md) | 🇹🇷 Türkçe
 
 Küçük bir e-ticaret veritabanı (Customers, Orders, OrderDetails, Products,
-Categories) üzerine hazırlanmış 10 SQL alıştırma sorusu ve çözümü.
+Categories) üzerine hazırlanmış 10  MS SQL alıştırma sorusu ve çözümü.
 
 > Not: Kod dosyalarındaki (`.sql`) yorumlar İngilizcedir. Bu sayfa sadece
 > soruların Türkçe açıklamalarını içerir.
