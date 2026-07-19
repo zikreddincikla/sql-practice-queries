@@ -7,7 +7,7 @@ database (Customers, Orders, OrderDetails, Products, Categories).
 
 ## Schema
 
-Table structure and relationships are defined in [schema.sql](schema.sql):
+Table structure and relationships are defined in [schema.sql](solutions/schema.sql):
 
 - **Customers**: CustomerID (PK), FirstName, LastName, Email, Phone, Address, City
 - **Orders**: OrderID (PK), OrderDate, CustomerID (FK), Description
