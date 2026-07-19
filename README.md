@@ -47,3 +47,18 @@ These queries are written in T-SQL (SQL Server) syntax (note the `[]` bracket
 identifiers and the `TOP` clause). If you're using a different database engine
 (PostgreSQL, MySQL, etc.), minor syntax adjustments will be needed — for
 example, `LIMIT 1` instead of `TOP 1`.
+
+## Author
+
+Built and maintained by **Zikreddin**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/zikreddincikla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zikreddin-%C3%A7%C4%B1klasa%C4%9F%C4%B1rc%C4%B1o%C4%9Flu-64667a395/)
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for details.
+
+---
+
+<div align="center">
