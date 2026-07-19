@@ -1,4 +1,7 @@
-# SQL Practice
+<div text-aling:'center'>
+  # SQL Practice
+</div>
+
 
 🇬🇧 English | [🇹🇷 Türkçe](README.tr.md)
 
