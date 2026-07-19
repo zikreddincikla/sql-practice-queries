@@ -1,6 +1,6 @@
 <div align="center">
   
-  #SQL Practice
+  # SQL Practice
 
   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   
