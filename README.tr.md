@@ -10,7 +10,7 @@ Categories) üzerine hazırlanmış 10 SQL alıştırma sorusu ve çözümü.
 
 ## Şema
 
-Tablo yapıları ve ilişkiler [schema.sql](schema.sql) dosyasında tanımlıdır:
+Tablo yapıları ve ilişkiler [schema.sql](solutions/schema.sql) dosyasında tanımlıdır:
 
 - **Customers**: CustomerID (PK), FirstName, LastName, Email, Phone, Address, City
 - **Orders**: OrderID (PK), OrderDate, CustomerID (FK), Description
